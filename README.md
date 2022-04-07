@@ -26,4 +26,4 @@ All you need to do now is add a new file. Look in the explorer. Find your file n
 Viewing your website isn't that hard either. Just open up the file that we made earlier. Find the index.html file and right click it. Then select open. If it asks you what program to open the file with, select your default browser. For me I'd select Google Chrome.
 
 # Enjoy
-You did it! Enjoy your website! More information on how to host your website will be added soon. If you have any questions join the Discord Devs server --> https://discord.gg/JTx33ETdbE
+You did it! Enjoy your website! More information on how to host your website will be added soon. If you have any questions join the Discord Shop server --> https://discord.com/invite/rDZUUXwHVR
