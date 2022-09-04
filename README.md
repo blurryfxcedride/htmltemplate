@@ -1,11 +1,3 @@
- ___  ___  _________  _____ ______   ___          
-|\  \|\  \|\___   ___\\   _ \  _   \|\  \         
-\ \  \\\  \|___ \  \_\ \  \\\__\ \  \ \  \        
- \ \   __  \   \ \  \ \ \  \\|__| \  \ \  \       
-  \ \  \ \  \   \ \  \ \ \  \    \ \  \ \  \____  
-   \ \__\ \__\   \ \__\ \ \__\    \ \__\ \_______\
-    \|__|\|__|    \|__|  \|__|     \|__|\|_______|
-
 # Open Source HTML Template
 Whats up. Thanks for using my free open source HTML template. Please make sure to read the license, which is a GNU. Below are the insturctions on how to use the template.
 
