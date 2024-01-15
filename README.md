@@ -1,3 +1,5 @@
+##As of 1/14/24, this Open Source HTML Template has been discontinued. It will no longer be updated. You can continue to use the code as normal.
+
 # Open Source HTML Template
 Whats up. Thanks for using my free open source HTML template. Please make sure to read the license, which is a GNU. Below are the insturctions on how to use the template.
 
